@@ -1,0 +1,81 @@
+2
+es
+35
+Español
+Gestión de Vuelos
+Archivo
+Operaciones
+Idioma
+Ayuda
+Salir
+Alta
+Baja
+Consulta
+Modificación
+Nº de vuelo
+Origen
+Destino
+Aceptar
+Cancelar
+Error
+El campo «%s» es obligatorio.
+Ya existe el vuelo %s.
+No existe ningún vuelo con el número %s.
+Información
+Vuelo %s dado de alta correctamente.
+Vuelo %s eliminado correctamente.
+Vuelo %s modificado correctamente.
+¿Seguro que desea eliminar el vuelo %s?
+No se han encontrado vuelos para «%s».
+Sí
+No
+Vuelos registrados: %d
+Acerca de
+Gestión de vuelos - Práctica 4: Internacionalización
+Buscar
+No se pudo guardar el fichero %s: %s
+OTROS
+Error al cargar %s: %s
+2
+img/banderaEs.png
+img/iberia.png
+en
+35
+English
+Flight Management
+File
+Operations
+Language
+Help
+Exit
+Add
+Delete
+Search
+Modify
+Flight no.
+Origin
+Destination
+OK
+Cancel
+Error
+The field "%s" is required.
+Flight %s already exists.
+There is no flight with number %s.
+Information
+Flight %s added successfully.
+Flight %s deleted successfully.
+Flight %s modified successfully.
+Are you sure you want to delete flight %s?
+No flights found for "%s".
+Yes
+No
+Registered flights: %d
+About
+Flight management - Practice 4: Internationalization
+Find
+Could not save file %s: %s
+OTHERS
+Error loading %s: %s
+2
+img/banderaEn.png
+img/easyjets.png
